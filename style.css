@@ -1,0 +1,29 @@
+* {
+    Font-size: 24px;
+    font-family: helvetica
+    , sans-serif
+}
+
+
+h1,h3 {
+    font-family: helvetica, sans-serif;
+    text-align:center;
+    background-color: rgb(38, 200, 206);
+}
+
+.foodimg {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+body {
+    background-color: rgba(49, 49, 49, 0.26)
+}
+
+h1 {
+    font-size: 30px;
+}
